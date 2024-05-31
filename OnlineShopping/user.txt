@@ -1,0 +1,2 @@
+manager,sewni,sewni123
+customer,customer,abc123
